@@ -1,6 +1,3 @@
-# step5_federated_training.py
-# Federated Learning with smart contract logic triggered each round
-
 import os
 import json
 import pandas as pd
@@ -11,7 +8,6 @@ from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 
-# Smart contract simulation classes
 class FederatedContractSimulator:
     def __init__(self):
         self.model_updates = {}
@@ -36,14 +32,10 @@ class ReputationContractSimulator:
         print(f"[!] Flagged nodes for banning: {flagged}")
         return set(flagged)
 
-# Load initial reputation scores
 with open("node_reputations.json") as f:
     reputations = json.load(f)
 
-# Prepare FL directory
 DATA_DIR = "data_per_node"
-
-# Track global accuracy over rounds
 global_accuracies = []
 
 for round_num in range(1, 6):
@@ -56,18 +48,26 @@ for round_num in range(1, 6):
     feature_columns = None
 
     for file in os.listdir(DATA_DIR):
-        df = pd.read_csv(os.path.join(DATA_DIR, file))
+        if not file.endswith(".csv"):
+            continue
+
+        path = os.path.join(DATA_DIR, file)
+        df = pd.read_csv(path)
         node_id = df.iloc[0]["node_id"]
+
         if node_id in flagged_nodes:
             continue
 
-        X = df.drop(columns=["node_id", "is_sybil"])
         y = df["is_sybil"].astype(int)
+        X = df.drop(columns=["node_id", "is_sybil"])
 
-        # Check for class diversity
+        print(f"[DEBUG] {file}: rows={len(df)}, classes={y.unique().tolist()}")
+
         if len(np.unique(y)) < 2:
             print(f"[-] Skipping {node_id}: only one class present in data")
             continue
+
+        print(f"[✓] Using {node_id} — class diversity OK")
 
         if feature_columns is None:
             feature_columns = X.columns.tolist()
@@ -75,14 +75,22 @@ for round_num in range(1, 6):
         scaler = StandardScaler()
         X_scaled = scaler.fit_transform(X)
 
-        X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.3, random_state=42)
+        try:
+            if len(df) <= 4:
+                model = LogisticRegression(max_iter=1000)
+                model.fit(X_scaled, y)
+                acc = model.score(X_scaled, y)
+            else:
+                X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.3, random_state=42)
+                model = LogisticRegression(max_iter=1000)
+                model.fit(X_train, y_train)
+                acc = model.score(X_test, y_test)
 
-        model = LogisticRegression(max_iter=1000)
-        model.fit(X_train, y_train)
-
-        acc = model.score(X_test, y_test)
-        local_models.append(model.coef_[0])
-        fl_contract.submit_model_update(node_id, acc)
+            local_models.append(model.coef_[0])
+            fl_contract.submit_model_update(node_id, acc)
+        except Exception as e:
+            print(f"[!] Error training model for {node_id}: {e}")
+            continue
 
     if local_models:
         global_weights = np.mean(local_models, axis=0)
@@ -90,12 +98,17 @@ for round_num in range(1, 6):
 
         y_true_all, y_pred_all = [], []
         for file in os.listdir(DATA_DIR):
-            df = pd.read_csv(os.path.join(DATA_DIR, file))
+            if not file.endswith(".csv"):
+                continue
+
+            path = os.path.join(DATA_DIR, file)
+            df = pd.read_csv(path)
             node_id = df.iloc[0]["node_id"]
             if node_id in flagged_nodes:
                 continue
-            X = df[feature_columns]
+
             y = df["is_sybil"].astype(int)
+            X = df[feature_columns]
 
             scaler = StandardScaler()
             X_scaled = scaler.fit_transform(X)
@@ -112,7 +125,6 @@ for round_num in range(1, 6):
         print("[!] No models aggregated this round")
         global_accuracies.append(0.0)
 
-# Plot accuracy over rounds
 plt.plot(range(1, 6), global_accuracies, marker='o')
 plt.title("Global Model Accuracy over FL Rounds")
 plt.xlabel("Round")

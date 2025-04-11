@@ -1,2 +1,11 @@
 node_id,sent_total,sent_to_sybil,sent_to_honest,received_total,received_from_sybil,received_from_honest,protocol_diversity,message_burstiness,is_sybil
-Sybil000,17,17,0,3,1,2,2,0.06326,True
+Sybil000,3,0,3,2,1,1,5,0.03915,True
+Sybil000,3,0,3,2,1,1,5,0.03915,True
+Sybil000,3,0,3,2,1,1,5,0.03915,True
+Sybil000,3,0,3,2,1,1,5,0.03915,True
+Sybil000,3,0,3,2,1,1,5,0.03915,True
+Sybil000,3,0,3,2,1,1,5,0.03915,True
+Sybil000,3,0,3,2,1,1,5,0.03915,True
+Sybil000,3,0,3,2,1,1,5,0.03915,True
+Sybil000,3,0,3,2,1,1,5,0.03915,True
+Sybil000,3,0,3,2,1,1,5,0.03915,True

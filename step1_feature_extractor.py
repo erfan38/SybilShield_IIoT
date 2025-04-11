@@ -14,7 +14,7 @@ with open("network_logs.jsonl", "r") as f:
 logs.sort(key=lambda x: x["timestamp"])
 
 # Parameters
-WINDOW_SIZE = 20  # messages per window
+WINDOW_SIZE = 5  # messages per window
 
 # Organize messages per node
 node_messages = defaultdict(list)
