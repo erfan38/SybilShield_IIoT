@@ -1,0 +1,302 @@
+{
+  "Node000": {
+    "reputation": -0.11999999999999984,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node001": {
+    "reputation": -0.039999999999999813,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node002": {
+    "reputation": 0.040000000000000174,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node003": {
+    "reputation": 0.07000000000000023,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node004": {
+    "reputation": 0.05000000000000021,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node005": {
+    "reputation": -0.029999999999999805,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node006": {
+    "reputation": 0.050000000000000155,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node007": {
+    "reputation": -0.039999999999999813,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node008": {
+    "reputation": -0.26999999999999985,
+    "received_from_sybil": 13,
+    "sent_to_honest": 0
+  },
+  "Node009": {
+    "reputation": -0.009999999999999759,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node010": {
+    "reputation": -0.13999999999999985,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node011": {
+    "reputation": -0.15999999999999986,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node012": {
+    "reputation": -0.04999999999999982,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node013": {
+    "reputation": -0.019999999999999796,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node014": {
+    "reputation": 0.08000000000000024,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node015": {
+    "reputation": -0.039999999999999786,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node016": {
+    "reputation": -0.15999999999999975,
+    "received_from_sybil": 13,
+    "sent_to_honest": 0
+  },
+  "Node017": {
+    "reputation": -0.04999999999999982,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node018": {
+    "reputation": -0.049999999999999795,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node019": {
+    "reputation": -0.019999999999999768,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node020": {
+    "reputation": -0.019999999999999768,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node021": {
+    "reputation": -0.1199999999999998,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node022": {
+    "reputation": -0.07999999999999985,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node023": {
+    "reputation": -0.029999999999999805,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node024": {
+    "reputation": -0.16999999999999985,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node025": {
+    "reputation": -0.3599999999999999,
+    "received_from_sybil": 14,
+    "sent_to_honest": 0
+  },
+  "Node026": {
+    "reputation": 0.06000000000000022,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node027": {
+    "reputation": -0.009999999999999759,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node028": {
+    "reputation": -0.5199999999999998,
+    "received_from_sybil": 16,
+    "sent_to_honest": 0
+  },
+  "Node029": {
+    "reputation": -0.019999999999999768,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node030": {
+    "reputation": -0.019999999999999768,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node031": {
+    "reputation": -0.12999999999999984,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node032": {
+    "reputation": -0.15999999999999986,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node033": {
+    "reputation": -0.15999999999999984,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node034": {
+    "reputation": -0.1499999999999998,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node035": {
+    "reputation": 0.040000000000000174,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node036": {
+    "reputation": -0.13999999999999985,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node037": {
+    "reputation": 0.040000000000000174,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node038": {
+    "reputation": 0.030000000000000165,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node039": {
+    "reputation": -0.029999999999999777,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node040": {
+    "reputation": -0.12999999999999984,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node041": {
+    "reputation": -0.17999999999999977,
+    "received_from_sybil": 13,
+    "sent_to_honest": 0
+  },
+  "Node042": {
+    "reputation": -0.23999999999999985,
+    "received_from_sybil": 13,
+    "sent_to_honest": 0
+  },
+  "Node043": {
+    "reputation": -0.13999999999999985,
+    "received_from_sybil": 12,
+    "sent_to_honest": 0
+  },
+  "Node044": {
+    "reputation": -0.05999999999999983,
+    "received_from_sybil": 11,
+    "sent_to_honest": 0
+  },
+  "Node045": {
+    "reputation": 0.11000000000000026,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node046": {
+    "reputation": 0.08000000000000024,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node047": {
+    "reputation": 0.11000000000000026,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Node048": {
+    "reputation": -0.21999999999999986,
+    "received_from_sybil": 13,
+    "sent_to_honest": 0
+  },
+  "Node049": {
+    "reputation": 0.050000000000000155,
+    "received_from_sybil": 10,
+    "sent_to_honest": 0
+  },
+  "Sybil000": {
+    "reputation": -12.29999999999999,
+    "received_from_sybil": 1,
+    "sent_to_honest": 66
+  },
+  "Sybil001": {
+    "reputation": -9.38,
+    "received_from_sybil": 2,
+    "sent_to_honest": 51
+  },
+  "Sybil002": {
+    "reputation": -11.069999999999995,
+    "received_from_sybil": 1,
+    "sent_to_honest": 60
+  },
+  "Sybil003": {
+    "reputation": -12.18999999999999,
+    "received_from_sybil": 2,
+    "sent_to_honest": 65
+  },
+  "Sybil004": {
+    "reputation": -8.560000000000002,
+    "received_from_sybil": 2,
+    "sent_to_honest": 47
+  },
+  "Sybil005": {
+    "reputation": -10.849999999999996,
+    "received_from_sybil": 1,
+    "sent_to_honest": 59
+  },
+  "Sybil006": {
+    "reputation": -9.879999999999997,
+    "received_from_sybil": 1,
+    "sent_to_honest": 54
+  },
+  "Sybil007": {
+    "reputation": -11.759999999999993,
+    "received_from_sybil": 2,
+    "sent_to_honest": 63
+  },
+  "Sybil008": {
+    "reputation": -9.72,
+    "received_from_sybil": 0,
+    "sent_to_honest": 54
+  },
+  "Sybil009": {
+    "reputation": -8.590000000000003,
+    "received_from_sybil": 0,
+    "sent_to_honest": 48
+  }
+}
