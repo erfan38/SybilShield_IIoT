@@ -1,7 +1,7 @@
 # Modified step1_feature_extractor.py
 # Creates multiple time-windowed samples per node for diversity
 
-import json
+import json, os
 import pandas as pd
 from collections import defaultdict
 import numpy as np
@@ -77,6 +77,11 @@ for node_id, messages in node_messages.items():
         rows.append(row)
 
 # Output to CSV
-out_df = pd.DataFrame(rows)
-out_df.to_csv("node_features.csv", index=False)
-print(f"[\u2713] Extracted {len(out_df)} samples to node_features.csv")
+os.makedirs("features_per_node", exist_ok=True)
+
+df_all = pd.DataFrame(rows)
+for node_id, node_df in df_all.groupby("node_id"):
+    sanitized_id = node_id.replace("/", "_")
+    node_df.to_csv(f"features_per_node/{sanitized_id}.csv", index=False)
+
+print(f" Exported {len(df_all)} samples across {len(df_all['node_id'].unique())} nodes to features_per_node/")

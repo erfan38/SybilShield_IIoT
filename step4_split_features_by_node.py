@@ -1,19 +1,22 @@
-# step4_split_by_node.py
-# Split node_features.csv into one local dataset per node for FL
+# step4_split_features_by_node.py
+# Consolidates per-node multi-sample CSVs into a flat structure in data_per_node/
 
-import pandas as pd
 import os
+import pandas as pd
 
-# Load full feature dataset
-df = pd.read_csv("node_features.csv")
+input_dir = "features_per_node"
+output_dir = "data_per_node"
+os.makedirs(output_dir, exist_ok=True)
 
-# Output directory
-os.makedirs("data_per_node", exist_ok=True)
+for fname in sorted(os.listdir(input_dir)):
+    if fname.endswith(".csv"):
+        df = pd.read_csv(os.path.join(input_dir, fname))
+        node_id = os.path.splitext(fname)[0]
+        out_path = os.path.join(output_dir, f"{node_id}.csv")
 
-# Save one CSV file per node
-for _, row in df.iterrows():
-    node_id = row["node_id"]
-    out_path = os.path.join("data_per_node", f"{node_id}.csv")
-    row.to_frame().T.to_csv(out_path, index=False)
+        if os.path.exists(out_path):
+            df.to_csv(out_path, mode='a', header=False, index=False)
+        else:
+            df.to_csv(out_path, index=False)
 
-print(f"[✓] Saved {len(df)} local node files in data_per_node/")
+print(f"[✓] Consolidated data written to {output_dir}/")

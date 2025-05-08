@@ -1,0 +1,7 @@
+node_id,sent_total,sent_to_sybil,sent_to_honest,received_total,received_from_sybil,received_from_honest,protocol_diversity,message_burstiness,is_sybil
+Node019,1,0,1,4,3,1,4,0.00044,False
+Node019,0,0,0,5,1,4,4,0.00043,False
+Node019,1,0,1,4,4,0,4,0.0,False
+Node019,3,0,3,2,0,2,4,0.00044,False
+Node019,0,0,0,5,5,0,3,0.00088,False
+Node019,0,0,0,5,4,1,4,0.00042,False
