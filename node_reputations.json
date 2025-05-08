@@ -1,0 +1,1202 @@
+{
+  "Node000.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node000_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node000_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node000_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node000_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node000_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node001.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node001_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node001_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node001_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node001_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node001_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node002.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node002_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node002_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node002_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node002_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node002_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node003.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node003_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node003_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node003_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node003_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node003_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node004.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node004_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node004_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node004_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node004_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node004_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node005.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node005_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node005_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node005_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node005_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node005_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node006.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node006_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node006_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node006_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node006_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node006_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node007.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node007_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node007_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node007_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node007_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node007_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node008.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node008_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node008_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node008_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node008_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node008_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node009.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node009_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node009_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node009_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node009_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node009_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node010.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node010_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node010_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node010_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node010_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node010_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node011.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node011_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node011_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node011_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node011_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node011_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node012.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node012_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node012_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node012_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node012_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node012_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node013.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node013_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node013_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node013_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node013_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node013_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node014.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node014_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node014_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node014_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node014_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node014_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node015.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node015_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node015_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node015_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node015_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node015_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node016.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node016_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node016_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node016_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node016_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node016_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node017.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node017_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node017_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node017_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node017_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node017_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node018.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node018_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node018_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node018_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node018_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node018_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node019.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node019_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node019_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node019_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node019_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node019_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node020.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node020_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node020_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node020_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node020_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node020_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node021.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node021_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node021_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node021_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node021_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node021_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node022.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node022_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node022_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node022_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node022_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node022_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node023.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node023_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node023_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node023_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node023_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node023_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node024.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node024_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node024_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node024_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node024_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node024_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node025.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node025_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node025_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node025_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node025_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node025_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node026.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node026_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node026_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node026_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node026_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node026_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node027.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node027_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node027_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node027_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node027_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node027_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node028.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node028_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node028_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node028_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node028_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node028_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node029.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node029_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node029_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node029_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node029_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node029_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node030.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node030_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node030_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node030_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node030_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node030_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node031.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node031_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node031_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node031_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node031_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node031_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node032.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node032_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node032_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node032_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node032_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node032_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node033.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node033_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node033_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node033_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node033_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node033_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node034.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node034_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node034_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node034_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node034_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node034_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node035.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node035_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node035_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node035_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node035_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node035_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node036.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node036_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node036_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node036_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node036_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node036_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node037.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node037_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node037_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node037_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node037_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node037_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node038.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node038_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node038_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node038_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node038_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node038_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node039.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node039_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node039_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node039_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node039_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node039_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node040.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node040_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node040_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node040_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node040_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node040_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node041.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node041_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node041_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node041_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node041_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node041_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node042.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node042_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node042_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node042_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node042_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node042_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node043.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node043_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node043_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node043_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node043_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node043_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node044.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node044_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node044_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node044_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node044_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node044_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node045.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node045_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node045_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node045_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node045_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node045_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node046.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node046_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node046_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node046_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node046_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node046_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node047.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node047_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node047_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node047_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node047_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node047_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node048.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node048_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node048_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node048_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node048_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node048_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node049.csv": {
+    "accuracy": 0.0,
+    "reputation": -5.0
+  },
+  "Node049_Sybil00.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node049_Sybil01.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node049_Sybil02.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node049_Sybil03.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  },
+  "Node049_Sybil04.csv": {
+    "accuracy": 1.0,
+    "reputation": 5.0
+  }
+}
