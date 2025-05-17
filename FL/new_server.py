@@ -32,11 +32,11 @@ class SaveModelStrategy(FedAvgM):
                     writer = csv.writer(f)
                     writer.writerow(["round", "loss"])
                     writer.writerows(self.metrics_log)
-                print(f"[✓] Round metrics saved to 'round_metrics.csv'")
+                print(f" Round metrics saved to 'round_metrics.csv'")
                 
                 # If global accuracy was stored in the last round, show it
                 if self.final_accuracy is not None:
-                    print(f"[🏁] Final Global Accuracy: {self.final_accuracy:.2%}")
+                    print(f"Final Global Accuracy: {self.final_accuracy:.2%}")
 
         return aggregated_parameters, {}
 
@@ -54,13 +54,13 @@ class SaveModelStrategy(FedAvgM):
 
     #     if total_examples > 0:
     #         global_accuracy = total_correct / total_examples
-    #         print(f"[🌍] Round {server_round} Global Accuracy: {global_accuracy:.2%}")
+    #         print(f" Round {server_round} Global Accuracy: {global_accuracy:.2%}")
     #         if server_round == self.num_rounds:
     #             self.final_accuracy = global_accuracy
 
     #     if aggregated_loss is not None:
     #         self.metrics_log.append((server_round, aggregated_loss))
-    #         print(f"[📉] Round {server_round} aggregated loss: {aggregated_loss:.6f}")
+    #         print(f" Round {server_round} aggregated loss: {aggregated_loss:.6f}")
     #     return aggregated_loss, {}
 
     def aggregate_evaluate(self, server_round, results, failures):

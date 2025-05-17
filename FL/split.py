@@ -2,8 +2,8 @@ import os
 import pandas as pd
 from sklearn.utils import resample
 
-INPUT_CSV = "new4_dataset.csv"
-OUTPUT_DIR = "nodes4_data"
+INPUT_CSV = "new3_dataset.csv"
+OUTPUT_DIR = "nodes3_data"
 CLIENT_COUNT = 5  # Adjust number of FL clients
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -42,8 +42,8 @@ for i, client_groups in enumerate(clients):
     balanced_df.to_csv(output_path, index=False)
     print(f"[✓] Saved balanced client_{i}.csv with {len(balanced_df)} samples")
 
-print("✅ All clients processed and saved.")
+print(" All clients processed and saved.")
 for i in range(5):
-    df = pd.read_csv(f"nodes4_data/client_{i}.csv")
+    df = pd.read_csv(f"nodes3_data/client_{i}.csv")
     print(f"client_{i}: {df['is_sybil'].value_counts().to_dict()}")
 

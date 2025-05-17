@@ -63,7 +63,7 @@ class CNNTrainer:
     "protocol_diversity",
     "message_burstiness", "mqtt_ratio", "discovery_ratio",
     "protocol_entropy", "unique_peers", "dominant_protocol_ratio",
-    "avg_latency", "avg_msg_size", "avg_energy", "avg_enr_similarity_realistic"
+    "avg_latency", "avg_msg_size", "avg_energy", "avg_enr_similarity"
         ]].values
         y = df["is_sybil"].astype(int).values
 
@@ -130,6 +130,6 @@ class CNNTrainer:
 
 # ------------------ Run ------------------------------------------------------
 if __name__ == "__main__":
-    trainer = CNNTrainer(csv_path="new2_dataset.csv", epochs=150, lr=0.02)
+    trainer = CNNTrainer(csv_path="new3_dataset.csv", epochs=150, lr=0.02)
     trainer.fit()
     trainer.test()
