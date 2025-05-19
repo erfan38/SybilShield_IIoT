@@ -1,0 +1,3075 @@
+{
+  "client_id": "client_2",
+  "model_hash": "4a090e456a64adafde12061ea9b3fe0cf9fc6c65d60f1e33f2b9c46f3a27ffc3",
+  "timestamp": "25-05-19-14-04-21",
+  "report": [
+    {
+      "node_id": "Node084",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node003_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node091",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node014",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node033_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node008_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node055_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node070_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node011_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node008_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node024_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node020",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node023_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node004_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node009_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node067_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node076_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node079_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node007_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node004",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node047_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node048_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node076",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node057_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node062_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node057_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node006_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node046",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node056_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node028_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node041_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node000_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node098_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node009",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node098_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node031_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node099",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node087",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node088_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node022_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node086",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node054_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node053_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node010_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node024_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node001_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node099_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node014_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node017_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node040_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node084_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node055_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node010",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node084_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node040_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node054_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node047_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node082_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node026_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node003_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node016_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node058",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node021",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node057",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node046_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node070_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node097_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node060",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node072_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node049",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node051_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node010_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node095",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node067_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node047_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node026_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node064_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node025",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node044_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node053_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node017_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node017_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node015",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node080",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node070",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node063_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node000",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node009",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node062",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node057_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node053_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node057_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node015_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node035_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node073_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node096_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node032_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node061_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node064_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node074_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node060_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node007",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node079_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node008_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node074",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node081_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node034",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node080_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node072_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node019",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node064_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node051_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node014",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node005_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node009",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node096_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node064_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node032_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node084_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node018_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node087_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node078_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node075_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node064_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node073",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node015",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node003",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node007_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node064",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node082",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node003",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node074_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node041",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node088_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node049",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node094",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node084",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node031_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node087",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node036_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node064_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node042",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node044_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node032",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node004_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node049_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node048_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node058",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node032_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node096_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node081",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node065_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node054",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node079",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node037_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node006",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node089_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node043",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node078_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node084",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node000",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node004_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node066",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node014_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node074_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node060",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node036_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node086_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node028",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node078_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node052_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node062_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node066_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node043",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node079",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node045_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node077_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node028",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node074_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node056",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node077_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node010",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node050_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node075_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node015_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node069_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node093_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node025",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node051",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node088_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node017_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node061_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node077_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node055_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node031",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node020_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node069",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node007",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node065_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node043_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node069_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node053_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node022",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node052_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node039_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node037",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node059_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node006",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node015_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node087_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node012_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node013_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node066",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node006_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node025_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node042_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node091_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node012_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node072_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node061",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node055_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node023",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node087",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node073_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node037",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node088",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node040_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node041_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node053_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node095_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node074_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node063_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node054_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node063_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node046",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node054_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node033",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node011",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node052",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node033_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node031_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node056",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node004_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node075_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node089_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node089",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node086_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node047_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node011",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node037_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node032",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node073",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node033",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node043_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node089",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node004",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node089",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node053",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node096_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node036_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node026_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node028",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node012_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node021_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node083_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node088",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node069",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node031",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node015",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node013_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node035_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node086_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node014",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node055_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node023",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node052_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node040_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node045_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node066_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node025",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node081_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node002_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node091",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node044_LowSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node017_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node004",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node019_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node090",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node056_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node076_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node075_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node061",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node071_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node079_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node057_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node069",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node046",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node010",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node045_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node078",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node089_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node059",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node002_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node079_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node073_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node010_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node036",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node044",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node065",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node033_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node060_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node023_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node066",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node025",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node082_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node073",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node098_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node063_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node020",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node084_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node078_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node099",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node061",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node088_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node032_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node063_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node014_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node001_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node053_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node027_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node027_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node098_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node081_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node015",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node067_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node084_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node030_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node063_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node092_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node009_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node044_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node047",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node047_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node045",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node053_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node016_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node005",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node052",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node002_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node088_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node009_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node053",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node073_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node018_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node017_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node055",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node078_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node019_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node007_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node011",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node027_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node093_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node059_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node068_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node017_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node028_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node009_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node029_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node093_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node018_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node035_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node026_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node099_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node089_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node092_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node040_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node050",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node090_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node006_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node033",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node060_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node087",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node034",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node069",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node063_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node061_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node012",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node079",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node059_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node006_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node087_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node045",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node053",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node058",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node019_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node006",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node005_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node035_LowSybil00",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node036_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node004_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node041",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node048_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node028_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node059_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node010_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node008",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node006_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node098",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node087",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node078_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node072_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node055",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node081",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node022_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node056_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node097_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node050",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node074",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node064",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node037_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node054_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node014_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node030_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node039_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node079",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node013_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node096",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node039",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node070_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node085_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node069_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node019_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node000",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node014_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node055_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node051_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node016_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node066",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node026_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node014",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node042_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node076_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node091_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node005_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node056_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node042_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node002_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node016",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node000_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node090_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node074",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node081_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node063",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node041",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node055_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node039",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node033_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node075_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node069",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node009_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node027_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node051_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node085",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node087_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node086_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node098_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node088_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node052_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node053_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node025",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node069_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node071",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node070_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node094",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node011_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node023_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node030",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node024",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node044",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node091_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node030",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node042_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node068_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node054_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node032",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node085",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node047_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node071",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node089_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node054",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node061",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node054",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node021",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node005_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node040_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node098_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node026",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node005_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node049_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node062_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node098_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node086",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node071_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node041",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node083_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node057_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node083",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node038_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node067_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node075_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node060_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node065_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node040_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node018_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node025_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node078_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node036_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node019_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node025",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node063_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node080",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node009_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node044",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node024_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node087_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node011_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node078",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node036_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node095_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node056_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node065",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node046",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node021_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node056_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node036",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node037",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node094_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node014_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node002",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node092_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node023",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node044_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node012_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node091_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node095_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node056_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node081_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node019",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node058",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node085_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node084_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node099_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node034_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node009",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node027_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node047_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node064_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node096",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node092",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node030_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node093_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node044_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node058_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node035_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node035",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node016_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node029_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node034_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node099_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node023",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node053_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node097",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node045",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node062_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node062_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node054_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node082",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node065_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node022",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node007",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node012",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node021",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node096_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node035_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node063",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node044_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node081_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node026_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node044",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node038_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node052_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node040",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node091_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node041_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node081",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node092",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node070",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node046_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node087",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node061_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node087_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node001",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node094",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node064_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node051",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node056_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node079",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node084",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node023_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node040_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node051",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node027",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node026_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node036_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node000",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node031_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node070",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node062_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node022_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node073",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node015_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node024_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node009_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node076",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node087_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node013",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node073_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node036_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node032_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node088_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node008_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node083",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node054_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node087_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node037_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node066_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node017",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node023_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node017",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node047_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node000_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node042_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node045_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node090_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node032",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node017_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node054_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node002",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node082_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node079_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node069",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node068_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node031",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node023",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node025_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node017",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node032_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node079_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node008",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node019_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node075_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node065_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node008_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node089_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node080_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node096_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node092_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node063_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node006_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node008_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node039",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node093_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node017_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node002_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node053_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node097_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node085",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node076",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node016",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node029_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node076_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node007",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node084_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node017",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node059_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node019_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node082",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node068",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node097",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node045_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node020_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node005",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node063",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node098_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node077",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node025",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node056_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node023_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node087_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node071",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node094_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node086",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node071_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node045",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node090",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node055",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node044",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node066_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node002_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node044_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node069_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node014",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node095_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node025",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node029_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node006_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node055_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node085",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node011_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node016",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node043_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node052",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node066",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node051",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node005_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node098_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node027",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node018_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node062_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node027",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node089_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node022",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node098",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node021_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node032_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node067_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node039_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node090_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node066_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node070",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node099_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node095",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node046_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node024_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node057_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node080",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node045",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node062",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node045_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node009_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node069",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node062",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node017_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node090",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node040",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node056_HighSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node047_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node022_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node015_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node058_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node000_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node035_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node005",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node050_HighSybil00",
+      "severity": "high"
+    },
+    {
+      "node_id": "Node094",
+      "severity": "honest"
+    },
+    {
+      "node_id": "Node007_LowSybil00",
+      "severity": "low"
+    },
+    {
+      "node_id": "Node035_HighSybil00",
+      "severity": "high"
+    }
+  ]
+}

@@ -5,7 +5,7 @@ from flwr.common import parameters_to_ndarrays
 import torch
 import torch.nn as nn
 import csv
-from nn_models import SimpleNN, ConvNN, get_model
+from nn_models import get_model
 
 # Custom Strategy with model saving and final global accuracy
 class SaveModelStrategy(FedAvgM):

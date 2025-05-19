@@ -1,0 +1,114 @@
+Run directory: logs/DL\run_25-05-19_13-32-23
+Epoch 001/100 | Train L 0.3733 A 0.8357 | Val   L 0.2113 A 0.9130 | LR 0.005000
+Epoch 002/100 | Train L 0.1878 A 0.9210 | Val   L 0.1715 A 0.9221 | LR 0.005000
+Epoch 003/100 | Train L 0.1678 A 0.9281 | Val   L 0.1901 A 0.9172 | LR 0.005000
+Epoch 004/100 | Train L 0.1529 A 0.9327 | Val   L 0.1600 A 0.9322 | LR 0.005000
+Epoch 005/100 | Train L 0.1503 A 0.9331 | Val   L 0.1616 A 0.9259 | LR 0.005000
+Epoch 006/100 | Train L 0.1471 A 0.9328 | Val   L 0.1522 A 0.9315 | LR 0.005000
+Epoch 007/100 | Train L 0.1384 A 0.9383 | Val   L 0.1450 A 0.9363 | LR 0.005000
+Epoch 008/100 | Train L 0.1353 A 0.9368 | Val   L 0.1470 A 0.9357 | LR 0.005000
+Epoch 009/100 | Train L 0.1301 A 0.9410 | Val   L 0.1548 A 0.9315 | LR 0.005000
+Epoch 010/100 | Train L 0.1250 A 0.9425 | Val   L 0.1586 A 0.9308 | LR 0.005000
+Epoch 011/100 | Train L 0.1279 A 0.9405 | Val   L 0.1493 A 0.9294 | LR 0.005000
+Epoch 012/100 | Train L 0.1273 A 0.9421 | Val   L 0.1518 A 0.9329 | LR 0.005000
+Epoch 013/100 | Train L 0.1195 A 0.9442 | Val   L 0.1566 A 0.9280 | LR 0.005000
+Epoch 014/100 | Train L 0.1218 A 0.9437 | Val   L 0.1562 A 0.9266 | LR 0.002000
+Epoch 015/100 | Train L 0.1080 A 0.9491 | Val   L 0.1509 A 0.9280 | LR 0.002000
+Epoch 016/100 | Train L 0.1014 A 0.9493 | Val   L 0.1580 A 0.9325 | LR 0.002000
+Epoch 017/100 | Train L 0.0960 A 0.9540 | Val   L 0.1680 A 0.9325 | LR 0.002000
+Epoch 018/100 | Train L 0.0952 A 0.9546 | Val   L 0.1702 A 0.9294 | LR 0.002000
+Epoch 019/100 | Train L 0.0942 A 0.9544 | Val   L 0.1643 A 0.9287 | LR 0.002000
+Epoch 020/100 | Train L 0.0950 A 0.9553 | Val   L 0.1604 A 0.9315 | LR 0.002000
+Epoch 021/100 | Train L 0.0928 A 0.9560 | Val   L 0.1578 A 0.9308 | LR 0.000800
+Epoch 022/100 | Train L 0.0829 A 0.9610 | Val   L 0.1760 A 0.9308 | LR 0.000800
+Epoch 023/100 | Train L 0.0821 A 0.9612 | Val   L 0.1782 A 0.9311 | LR 0.000800
+Epoch 024/100 | Train L 0.0782 A 0.9636 | Val   L 0.1789 A 0.9294 | LR 0.000800
+Epoch 025/100 | Train L 0.0738 A 0.9651 | Val   L 0.1879 A 0.9301 | LR 0.000800
+Epoch 026/100 | Train L 0.0756 A 0.9647 | Val   L 0.1902 A 0.9280 | LR 0.000800
+Epoch 027/100 | Train L 0.0722 A 0.9664 | Val   L 0.1976 A 0.9297 | LR 0.000800
+Epoch 028/100 | Train L 0.0690 A 0.9673 | Val   L 0.2037 A 0.9290 | LR 0.000320
+Epoch 029/100 | Train L 0.0648 A 0.9695 | Val   L 0.2015 A 0.9301 | LR 0.000320
+Epoch 030/100 | Train L 0.0635 A 0.9711 | Val   L 0.2033 A 0.9270 | LR 0.000320
+Epoch 031/100 | Train L 0.0628 A 0.9715 | Val   L 0.2024 A 0.9283 | LR 0.000320
+Epoch 032/100 | Train L 0.0608 A 0.9726 | Val   L 0.2073 A 0.9287 | LR 0.000320
+Epoch 033/100 | Train L 0.0607 A 0.9725 | Val   L 0.2073 A 0.9294 | LR 0.000320
+Epoch 034/100 | Train L 0.0593 A 0.9731 | Val   L 0.2189 A 0.9266 | LR 0.000320
+Epoch 035/100 | Train L 0.0602 A 0.9726 | Val   L 0.2102 A 0.9311 | LR 0.000128
+Epoch 036/100 | Train L 0.0557 A 0.9750 | Val   L 0.2165 A 0.9297 | LR 0.000128
+Epoch 037/100 | Train L 0.0553 A 0.9748 | Val   L 0.2195 A 0.9290 | LR 0.000128
+Epoch 038/100 | Train L 0.0541 A 0.9760 | Val   L 0.2243 A 0.9301 | LR 0.000128
+Epoch 039/100 | Train L 0.0529 A 0.9767 | Val   L 0.2192 A 0.9304 | LR 0.000128
+Epoch 040/100 | Train L 0.0543 A 0.9753 | Val   L 0.2269 A 0.9304 | LR 0.000128
+Epoch 041/100 | Train L 0.0558 A 0.9745 | Val   L 0.2219 A 0.9290 | LR 0.000128
+Epoch 042/100 | Train L 0.0535 A 0.9770 | Val   L 0.2233 A 0.9304 | LR 0.000051
+Epoch 043/100 | Train L 0.0523 A 0.9768 | Val   L 0.2212 A 0.9304 | LR 0.000051
+Epoch 044/100 | Train L 0.0529 A 0.9769 | Val   L 0.2267 A 0.9311 | LR 0.000051
+Epoch 045/100 | Train L 0.0546 A 0.9757 | Val   L 0.2243 A 0.9290 | LR 0.000051
+Epoch 046/100 | Train L 0.0525 A 0.9765 | Val   L 0.2263 A 0.9297 | LR 0.000051
+Epoch 047/100 | Train L 0.0521 A 0.9773 | Val   L 0.2284 A 0.9290 | LR 0.000051
+Epoch 048/100 | Train L 0.0521 A 0.9765 | Val   L 0.2229 A 0.9297 | LR 0.000051
+Epoch 049/100 | Train L 0.0525 A 0.9782 | Val   L 0.2268 A 0.9301 | LR 0.000020
+Epoch 050/100 | Train L 0.0522 A 0.9767 | Val   L 0.2290 A 0.9315 | LR 0.000020
+Epoch 051/100 | Train L 0.0508 A 0.9776 | Val   L 0.2292 A 0.9301 | LR 0.000020
+Epoch 052/100 | Train L 0.0494 A 0.9783 | Val   L 0.2309 A 0.9283 | LR 0.000020
+Epoch 053/100 | Train L 0.0503 A 0.9777 | Val   L 0.2315 A 0.9287 | LR 0.000020
+Epoch 054/100 | Train L 0.0525 A 0.9763 | Val   L 0.2320 A 0.9287 | LR 0.000020
+Epoch 055/100 | Train L 0.0509 A 0.9776 | Val   L 0.2325 A 0.9294 | LR 0.000020
+Epoch 056/100 | Train L 0.0522 A 0.9752 | Val   L 0.2288 A 0.9311 | LR 0.000008
+Epoch 057/100 | Train L 0.0518 A 0.9774 | Val   L 0.2273 A 0.9318 | LR 0.000008
+Epoch 058/100 | Train L 0.0510 A 0.9780 | Val   L 0.2297 A 0.9311 | LR 0.000008
+Epoch 059/100 | Train L 0.0522 A 0.9774 | Val   L 0.2298 A 0.9311 | LR 0.000008
+Epoch 060/100 | Train L 0.0515 A 0.9777 | Val   L 0.2281 A 0.9273 | LR 0.000008
+Epoch 061/100 | Train L 0.0510 A 0.9782 | Val   L 0.2265 A 0.9304 | LR 0.000008
+Epoch 062/100 | Train L 0.0503 A 0.9788 | Val   L 0.2306 A 0.9290 | LR 0.000008
+Epoch 063/100 | Train L 0.0505 A 0.9783 | Val   L 0.2320 A 0.9290 | LR 0.000003
+Epoch 064/100 | Train L 0.0522 A 0.9764 | Val   L 0.2359 A 0.9297 | LR 0.000003
+Epoch 065/100 | Train L 0.0510 A 0.9772 | Val   L 0.2306 A 0.9290 | LR 0.000003
+Epoch 066/100 | Train L 0.0500 A 0.9775 | Val   L 0.2300 A 0.9297 | LR 0.000003
+Epoch 067/100 | Train L 0.0499 A 0.9776 | Val   L 0.2320 A 0.9304 | LR 0.000003
+Epoch 068/100 | Train L 0.0504 A 0.9786 | Val   L 0.2307 A 0.9315 | LR 0.000003
+Epoch 069/100 | Train L 0.0511 A 0.9779 | Val   L 0.2296 A 0.9311 | LR 0.000003
+Epoch 070/100 | Train L 0.0518 A 0.9771 | Val   L 0.2345 A 0.9283 | LR 0.000001
+Epoch 071/100 | Train L 0.0491 A 0.9795 | Val   L 0.2327 A 0.9304 | LR 0.000001
+Epoch 072/100 | Train L 0.0515 A 0.9763 | Val   L 0.2299 A 0.9294 | LR 0.000001
+Epoch 073/100 | Train L 0.0503 A 0.9779 | Val   L 0.2336 A 0.9283 | LR 0.000001
+Epoch 074/100 | Train L 0.0503 A 0.9787 | Val   L 0.2295 A 0.9301 | LR 0.000001
+Epoch 075/100 | Train L 0.0510 A 0.9774 | Val   L 0.2340 A 0.9287 | LR 0.000001
+Epoch 076/100 | Train L 0.0520 A 0.9773 | Val   L 0.2326 A 0.9315 | LR 0.000001
+Epoch 077/100 | Train L 0.0511 A 0.9767 | Val   L 0.2280 A 0.9318 | LR 0.000001
+Epoch 078/100 | Train L 0.0493 A 0.9786 | Val   L 0.2292 A 0.9311 | LR 0.000001
+Epoch 079/100 | Train L 0.0509 A 0.9785 | Val   L 0.2321 A 0.9283 | LR 0.000001
+Epoch 080/100 | Train L 0.0508 A 0.9779 | Val   L 0.2330 A 0.9308 | LR 0.000001
+Epoch 081/100 | Train L 0.0527 A 0.9774 | Val   L 0.2293 A 0.9308 | LR 0.000001
+Epoch 082/100 | Train L 0.0496 A 0.9779 | Val   L 0.2267 A 0.9290 | LR 0.000001
+Epoch 083/100 | Train L 0.0498 A 0.9786 | Val   L 0.2367 A 0.9297 | LR 0.000001
+Epoch 084/100 | Train L 0.0515 A 0.9769 | Val   L 0.2286 A 0.9283 | LR 0.000000
+Epoch 085/100 | Train L 0.0499 A 0.9785 | Val   L 0.2286 A 0.9301 | LR 0.000000
+Epoch 086/100 | Train L 0.0493 A 0.9787 | Val   L 0.2282 A 0.9315 | LR 0.000000
+Epoch 087/100 | Train L 0.0511 A 0.9772 | Val   L 0.2287 A 0.9290 | LR 0.000000
+Epoch 088/100 | Train L 0.0505 A 0.9782 | Val   L 0.2281 A 0.9322 | LR 0.000000
+Epoch 089/100 | Train L 0.0516 A 0.9769 | Val   L 0.2295 A 0.9297 | LR 0.000000
+Epoch 090/100 | Train L 0.0512 A 0.9780 | Val   L 0.2316 A 0.9322 | LR 0.000000
+Epoch 091/100 | Train L 0.0492 A 0.9765 | Val   L 0.2308 A 0.9315 | LR 0.000000
+Epoch 092/100 | Train L 0.0521 A 0.9785 | Val   L 0.2309 A 0.9301 | LR 0.000000
+Epoch 093/100 | Train L 0.0514 A 0.9764 | Val   L 0.2313 A 0.9290 | LR 0.000000
+Epoch 094/100 | Train L 0.0518 A 0.9763 | Val   L 0.2362 A 0.9290 | LR 0.000000
+Epoch 095/100 | Train L 0.0523 A 0.9773 | Val   L 0.2298 A 0.9301 | LR 0.000000
+Epoch 096/100 | Train L 0.0496 A 0.9785 | Val   L 0.2305 A 0.9294 | LR 0.000000
+Epoch 097/100 | Train L 0.0514 A 0.9757 | Val   L 0.2288 A 0.9308 | LR 0.000000
+Epoch 098/100 | Train L 0.0509 A 0.9780 | Val   L 0.2278 A 0.9315 | LR 0.000000
+Epoch 099/100 | Train L 0.0506 A 0.9773 | Val   L 0.2304 A 0.9301 | LR 0.000000
+Epoch 100/100 | Train L 0.0518 A 0.9775 | Val   L 0.2314 A 0.9283 | LR 0.000000
+Saved LR diagram -> logs/DL\run_25-05-19_13-32-23\lr_curve.png
+Saved loss and accuracy plots.
+
+Test Metrics:
+| Metric         |       Value |
+|:---------------|------------:|
+| accuracy       |      0.9346 |
+| precision      |      0.9351 |
+| recall         |      0.9346 |
+| f1_score       |      0.9348 |
+| time_seconds   |      0.1052 |
+| overhead_bytes | 251711      |
+Metrics saved to logs/DL\run_25-05-19_13-32-23\test_metrics.csv

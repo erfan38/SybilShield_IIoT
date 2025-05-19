@@ -52,11 +52,11 @@ class DecentralizedNode:
         self._load_and_split_data()
 
     def _load_and_split_data(self):
-        path = f"nodes3_data/{self.node_id}.csv"
+        path = f"nodes4_data/{self.node_id}.csv"
         df = pd.read_csv(path)
 
         X = df[FEATURE_COLUMNS].values
-        y = df["is_sybil"].values
+        y = df["severity"].values
 
         X_train, X_temp, y_train, y_temp = train_test_split(X, y, test_size=0.4, stratify=y, random_state=42)
         X_val, X_test, y_val, y_test = train_test_split(X_temp, y_temp, test_size=0.5, stratify=y_temp, random_state=42)
@@ -69,7 +69,9 @@ class DecentralizedNode:
         self.X_test = torch.tensor(scaler.transform(X_test), dtype=torch.float32)
         self.y_test = torch.tensor(y_test, dtype=torch.long)
 
-        weights = compute_class_weight('balanced', classes=np.array([0, 1]), y=y_train)
+        classes = np.unique(y_train)
+        weights = compute_class_weight('balanced', classes=classes, y=y_train)
+
         class_weights = torch.tensor(weights, dtype=torch.float32)
         self.loss_fn = nn.CrossEntropyLoss(weight=class_weights)
 

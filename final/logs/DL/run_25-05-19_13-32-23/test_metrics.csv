@@ -1,0 +1,7 @@
+Metric,Value
+accuracy,0.9346
+precision,0.9351
+recall,0.9346
+f1_score,0.9348
+time_seconds,0.1052
+overhead_bytes,251711.0

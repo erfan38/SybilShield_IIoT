@@ -1,0 +1,10 @@
+{
+  "node_id": "client_4",
+  "test_loss": 0.6834,
+  "accuracy": 0.893,
+  "precision": 0.8944,
+  "recall": 0.8942,
+  "f1_score": 0.8943,
+  "computation_time": 438.8257,
+  "overhead_bytes": 251624
+}
