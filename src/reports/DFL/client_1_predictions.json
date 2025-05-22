@@ -1,7 +1,7 @@
 {
   "client_id": "client_1",
-  "model_hash": "8e91c5ccc43c05636c28f13e712f682ac57bafbb7745426ebe8551a710b99318",
-  "timestamp": "25-05-19-14-04-20",
+  "model_hash": "d8e7d9f8538d9ef7a568ab527e3c900061cdd7ebcaece1003af3fa7191f4dd4f",
+  "timestamp": "25-05-21-14-10-18",
   "report": [
     {
       "node_id": "Node060_LowSybil00",
@@ -29,7 +29,7 @@
     },
     {
       "node_id": "Node085",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node084_LowSybil00",
@@ -661,7 +661,7 @@
     },
     {
       "node_id": "Node010_HighSybil00",
-      "severity": "low"
+      "severity": "high"
     },
     {
       "node_id": "Node097_LowSybil00",
@@ -697,7 +697,7 @@
     },
     {
       "node_id": "Node004",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node014",
@@ -801,7 +801,7 @@
     },
     {
       "node_id": "Node085",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node017_LowSybil00",
@@ -881,7 +881,7 @@
     },
     {
       "node_id": "Node027_HighSybil00",
-      "severity": "high"
+      "severity": "low"
     },
     {
       "node_id": "Node020_LowSybil00",
@@ -1069,7 +1069,7 @@
     },
     {
       "node_id": "Node040",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node076",
@@ -1081,11 +1081,11 @@
     },
     {
       "node_id": "Node090",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node069",
-      "severity": "low"
+      "severity": "honest"
     },
     {
       "node_id": "Node068",
@@ -1181,7 +1181,7 @@
     },
     {
       "node_id": "Node074_HighSybil00",
-      "severity": "low"
+      "severity": "high"
     },
     {
       "node_id": "Node074_LowSybil00",
@@ -1189,7 +1189,7 @@
     },
     {
       "node_id": "Node003_HighSybil00",
-      "severity": "low"
+      "severity": "high"
     },
     {
       "node_id": "Node082_HighSybil00",
@@ -1233,7 +1233,7 @@
     },
     {
       "node_id": "Node047_HighSybil00",
-      "severity": "low"
+      "severity": "high"
     },
     {
       "node_id": "Node057_LowSybil00",
@@ -1253,7 +1253,7 @@
     },
     {
       "node_id": "Node035",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node071",
@@ -1277,7 +1277,7 @@
     },
     {
       "node_id": "Node047_HighSybil00",
-      "severity": "low"
+      "severity": "high"
     },
     {
       "node_id": "Node029_LowSybil00",
@@ -1473,7 +1473,7 @@
     },
     {
       "node_id": "Node012",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node090_LowSybil00",
@@ -1557,7 +1557,7 @@
     },
     {
       "node_id": "Node097_LowSybil00",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node099_LowSybil00",
@@ -1585,7 +1585,7 @@
     },
     {
       "node_id": "Node074",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node099_HighSybil00",
@@ -1689,7 +1689,7 @@
     },
     {
       "node_id": "Node076",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node080_HighSybil00",
@@ -1741,7 +1741,7 @@
     },
     {
       "node_id": "Node067",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node000_LowSybil00",
@@ -1849,7 +1849,7 @@
     },
     {
       "node_id": "Node089",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node098",
@@ -1921,7 +1921,7 @@
     },
     {
       "node_id": "Node069",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node064_LowSybil00",
@@ -2277,7 +2277,7 @@
     },
     {
       "node_id": "Node090",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node005_HighSybil00",
@@ -2469,11 +2469,11 @@
     },
     {
       "node_id": "Node013",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node020",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node013_HighSybil00",
@@ -2565,7 +2565,7 @@
     },
     {
       "node_id": "Node078",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node057_LowSybil00",
@@ -2753,7 +2753,7 @@
     },
     {
       "node_id": "Node096",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node071_LowSybil00",
@@ -2809,7 +2809,7 @@
     },
     {
       "node_id": "Node013_HighSybil00",
-      "severity": "low"
+      "severity": "high"
     },
     {
       "node_id": "Node013",
@@ -2909,7 +2909,7 @@
     },
     {
       "node_id": "Node046_HighSybil00",
-      "severity": "low"
+      "severity": "high"
     },
     {
       "node_id": "Node005_LowSybil00",
@@ -2945,7 +2945,7 @@
     },
     {
       "node_id": "Node005",
-      "severity": "honest"
+      "severity": "low"
     },
     {
       "node_id": "Node037_HighSybil00",

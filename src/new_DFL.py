@@ -254,31 +254,95 @@ class DecentralizedNode:
 
 
     def _save_learning_curves(self):
-        epochs = range(1, len(self.train_loss_hist) + 1)
+        ########### each client has only one figure combining loss and acc:
+        max_epochs_to_plot = 100
+        epochs_range = range(1, max_epochs_to_plot + 1)
 
-        # Loss Curve
-        plt.figure()
-        plt.plot(epochs, self.train_loss_hist, label="Train Loss")
-        plt.plot(epochs, self.val_loss_hist, label="Validation Loss")
-        plt.xlabel("Epoch")
-        plt.ylabel("Loss")
-        plt.title(f"{self.client_id} - Loss Curve")
-        plt.legend()
-        plt.tight_layout()
-        plt.savefig(os.path.join(LOG_DIR, f"{self.client_id}_loss_curve.png"), dpi=300)
+        fig, ax1 = plt.subplots(figsize=(8, 4))
+
+        # Accuracy (Left Y-axis)
+        ax1.plot(epochs_range, self.train_acc_hist[:max_epochs_to_plot], label="Train Accuracy", color='tab:blue')
+        ax1.plot(epochs_range, self.val_acc_hist[:max_epochs_to_plot], label="Val Accuracy", color='tab:cyan', linestyle='--')
+        ax1.set_xlabel("Epoch")
+        ax1.set_ylabel("Accuracy", color='tab:blue')
+        ax1.tick_params(axis='y', labelcolor='tab:blue')
+        ax1.grid(True)
+
+        # Loss (Right Y-axis)
+        ax2 = ax1.twinx()
+        ax2.plot(epochs_range, self.train_loss_hist[:max_epochs_to_plot], label="Train Loss", color='tab:red')
+        ax2.plot(epochs_range, self.val_loss_hist[:max_epochs_to_plot], label="Val Loss", color='tab:orange', linestyle='--')
+        ax2.set_ylabel("Loss", color='tab:red')
+        ax2.tick_params(axis='y', labelcolor='tab:red')
+
+        # Combine legends from both axes
+        lines1, labels1 = ax1.get_legend_handles_labels()
+        lines2, labels2 = ax2.get_legend_handles_labels()
+        ax1.legend(lines1 + lines2, labels1 + labels2, loc="center right", fontsize='small')
+
+        fig.suptitle(f"{self.client_id} - Accuracy & Loss (First Round)")
+        fig.tight_layout()
+        fig.subplots_adjust(top=0.88)
+
+        filename = os.path.join(LOG_DIR, f"{self.client_id}_acc_loss_combined_first_round.png")
+        plt.savefig(filename, dpi=300)
         plt.close()
 
-        # Accuracy Curve
-        plt.figure()
-        plt.plot(epochs, self.train_acc_hist, label="Train Accuracy")
-        plt.plot(epochs, self.val_acc_hist, label="Validation Accuracy")
-        plt.xlabel("Epoch")
-        plt.ylabel("Accuracy")
-        plt.title(f"{self.client_id} - Accuracy Curve")
-        plt.legend()
-        plt.tight_layout()
-        plt.savefig(os.path.join(LOG_DIR, f"{self.client_id}_accuracy_curve.png"), dpi=300)
-        plt.close()
+        print(f"[✓] Saved combined accuracy/loss curve for {self.client_id}")
+
+        ################### each client has two figures:
+        # # Only use the first 100 epochs
+        # max_epochs_to_plot = 100
+
+        # # Loss Curve
+        # plt.figure()
+        # plt.plot(range(1, max_epochs_to_plot + 1), self.train_loss_hist[:max_epochs_to_plot], label="Train Loss")
+        # plt.plot(range(1, max_epochs_to_plot + 1), self.val_loss_hist[:max_epochs_to_plot], label="Validation Loss")
+        # plt.xlabel("Epoch")
+        # plt.ylabel("Loss")
+        # plt.title("")#f"{self.client_id} - Loss Curve (First Round Only)")
+        # plt.legend()
+        # plt.tight_layout()
+        # plt.savefig(os.path.join(LOG_DIR, f"{self.client_id}_loss_curve_first_round.png"), dpi=300)
+        # plt.close()
+
+        # # Accuracy Curve
+        # plt.figure()
+        # plt.plot(range(1, max_epochs_to_plot + 1), self.train_acc_hist[:max_epochs_to_plot], label="Train Accuracy")
+        # plt.plot(range(1, max_epochs_to_plot + 1), self.val_acc_hist[:max_epochs_to_plot], label="Validation Accuracy")
+        # plt.xlabel("Epoch")
+        # plt.ylabel("Accuracy")
+        # plt.title("")#f"{self.client_id} - Accuracy Curve (First Round Only)")
+        # plt.legend()
+        # plt.tight_layout()
+        # plt.savefig(os.path.join(LOG_DIR, f"{self.client_id}_accuracy_curve_first_round.png"), dpi=300)
+        # plt.close()
+##################### first one:
+        # epochs = range(1, len(self.train_loss_hist) + 1)
+
+        # # Loss Curve
+        # plt.figure()
+        # plt.plot(epochs, self.train_loss_hist, label="Train Loss")
+        # plt.plot(epochs, self.val_loss_hist, label="Validation Loss")
+        # plt.xlabel("Epoch")
+        # plt.ylabel("Loss")
+        # plt.title(f"{self.client_id} - Loss Curve")
+        # plt.legend()
+        # plt.tight_layout()
+        # plt.savefig(os.path.join(LOG_DIR, f"{self.client_id}_loss_curve.png"), dpi=300)
+        # plt.close()
+
+        # # Accuracy Curve
+        # plt.figure()
+        # plt.plot(epochs, self.train_acc_hist, label="Train Accuracy")
+        # plt.plot(epochs, self.val_acc_hist, label="Validation Accuracy")
+        # plt.xlabel("Epoch")
+        # plt.ylabel("Accuracy")
+        # plt.title(f"{self.client_id} - Accuracy Curve")
+        # plt.legend()
+        # plt.tight_layout()
+        # plt.savefig(os.path.join(LOG_DIR, f"{self.client_id}_accuracy_curve.png"), dpi=300)
+        # plt.close()
 
         print(f"[✓] Saved learning curves for {self.client_id}")
 
